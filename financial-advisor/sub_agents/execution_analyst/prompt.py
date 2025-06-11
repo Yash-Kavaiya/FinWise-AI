@@ -1,4 +1,6 @@
+
 EXECUTION_ANALYST_PROMPT = """
+
 To generate a detailed and reasoned execution plan for the provided_trading_strategy.
 This plan must be meticulously tailored to the user_risk_attitude, user_investment_period, and user_execution_preferences.
 The output should be rich in factual analysis, exploring optimal strategies and precise moments for entering, holding, accumulating,
